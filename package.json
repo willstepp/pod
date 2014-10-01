@@ -1,0 +1,15 @@
+{
+  "name": "pod",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.4.8",
+    "express3-handlebars": "~0.5.0",
+    "node-sass": "~0.8.4",
+    "moment": "~2.6.0",
+    "aws-sdk": "~2.0.0-rc.15"
+  }
+}
